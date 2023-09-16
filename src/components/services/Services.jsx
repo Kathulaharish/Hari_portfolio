@@ -81,7 +81,7 @@ const Services = ()=>{
                 {/* END OF Web Development */}
                 <article className="service">
                     <div className="service_head">
-                        <h3>Content Creation</h3>
+                        <h3>Blockchain Technology</h3>
                     </div>
 
                     <ul className="service_list">
