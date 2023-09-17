@@ -10,7 +10,10 @@ const Header = ()=>{
             <div className="container header_container">
                 <h5>Hello I'm</h5>
                 <h1>Kathula Harish</h1>
-                <h5 className="text-light">FullStack Developer</h5>
+                <h5 className="text-light">I am eager to embark on a career that allows me to explore the dynamic world of full-stack
+development and leverage blockchain’s innovative capabilities. My enthusiasm for staying updated
+with the latest advancements in these fields drives my commitment to continuous learning and
+contributing to cutting-edge projects</h5>
                 <CTA/>
                 <HeaderSocial/>
 

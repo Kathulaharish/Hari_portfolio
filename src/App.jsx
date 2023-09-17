@@ -8,11 +8,13 @@ import Portfolio from "./components/portfolio/Portfolio"
 import Testimonials from "./components/testimonials/Testimonials"
 import Contact from "./components/contacts/Contact"
 import Footer from "./components/footer/Footer"
+import Background from "./components/Add_3d_background/squares.jsx"
 
 
 const App = ()=>{
     return (
         <>
+            <Background/>
             <Header/>
             <Nav/>
             <About/>
